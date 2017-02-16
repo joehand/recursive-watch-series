@@ -1,0 +1,22 @@
+{
+  "name": "recursive-watch-series",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joehand/recursive-watch-series.git"
+  },
+  "author": "Joe Hand <joe@hand.email> (https://joeahand.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joehand/recursive-watch-series/issues"
+  },
+  "homepage": "https://github.com/joehand/recursive-watch-series#readme",
+  "dependencies": {
+    "recursive-watch": "^1.1.1"
+  }
+}
